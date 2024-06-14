@@ -271,7 +271,7 @@ section{
 .Technical-bars .bar .progress-line{
     position: relative;
     border-radius: 10px;
-    width:100%;
+    width:100%;git add README.md
     height: 5px;
     background-color: #0ef;
     animation: animate 1s cubic-bezier(1,0,0.5,1) forwards;
