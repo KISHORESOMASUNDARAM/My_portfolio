@@ -54,7 +54,7 @@ body{
     width: 100%;
     justify-content: space-between;
     height: 100vh;
-    background-image: url(../Portfolio/assests/240_F_297394130_u95tp8V3UN6FTujEmKCOJ3y0WX1SCz7w.jpg);
+    background-image: url(../Portfolio/assests/background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -271,7 +271,7 @@ section{
 .Technical-bars .bar .progress-line{
     position: relative;
     border-radius: 10px;
-    width:100%;git add README.md
+    width:100%;
     height: 5px;
     background-color: #0ef;
     animation: animate 1s cubic-bezier(1,0,0.5,1) forwards;
